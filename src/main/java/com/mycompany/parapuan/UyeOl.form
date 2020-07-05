@@ -119,7 +119,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Ubuntu" size="18" style="1"/>
+              <Font name="Ubuntu" size="20" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Ad&#x131; Soyad&#x131;"/>
           </Properties>
@@ -127,7 +127,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Ubuntu" size="18" style="1"/>
+              <Font name="Ubuntu" size="20" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Telefon Numaras&#x131;"/>
           </Properties>
@@ -135,7 +135,7 @@
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Ubuntu" size="18" style="1"/>
+              <Font name="Ubuntu" size="20" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Referans veya Telelefon Numaras&#x131;"/>
           </Properties>

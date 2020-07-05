@@ -79,13 +79,13 @@ public class UyeOl extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setFont(new java.awt.Font("Ubuntu", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Ubuntu", 1, 20)); // NOI18N
         jLabel1.setText("Adı Soyadı");
 
-        jLabel2.setFont(new java.awt.Font("Ubuntu", 1, 18)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Ubuntu", 1, 20)); // NOI18N
         jLabel2.setText("Telefon Numarası");
 
-        jLabel3.setFont(new java.awt.Font("Ubuntu", 1, 18)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Ubuntu", 1, 20)); // NOI18N
         jLabel3.setText("Referans veya Telelefon Numarası");
 
         adisoyadi.addActionListener(new java.awt.event.ActionListener() {

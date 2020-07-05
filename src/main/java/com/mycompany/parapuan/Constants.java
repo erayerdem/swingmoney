@@ -12,8 +12,8 @@ package com.mycompany.parapuan;
 public class Constants {
 
     public static String username = "arazdoner";
-    public static String password = "araz1324";
-    public static String adminpassword = "ahmet234561";
+    public static String password = "araz2356";
+    public static String adminpassword = "ahmet235656";
     public static float birim;
     
 
