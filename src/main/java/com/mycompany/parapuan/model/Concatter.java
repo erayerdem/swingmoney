@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 public class Concatter {
     private List<Musteri> musteri;
     private List<Odeme> odeme;
-
+    private String name;
     public List<Musteri> getMusteri() {
         return musteri;
     }
